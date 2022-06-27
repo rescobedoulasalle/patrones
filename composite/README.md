@@ -28,7 +28,7 @@
 <tr><td>TÍTULO DE LA PRÁCTICA:</td><td>Patrón Composite</td></tr>
 <tr><td colspan="2">RECURSOS:
     <ul>
-    <li>Oscar J Blancarte Iturralde. Introducción a los patrones de diseño_ Un enfoque práctico (Spanish Edition. CreateSpace Independent Publishing Platform (2016)</li>
+    <li>Oscar J Blancarte Iturralde. Introducción a los patrones de diseño. Un enfoque práctico (Spanish Edition. CreateSpace Independent Publishing Platform (2016)</li>
     </ul>
 </td>
 </<tr>
@@ -72,8 +72,12 @@
 
 ### MARCO CONCEPTUAL
 
-...
+-   Patrón composite
+    -   Si ud. quiere crear estructuras complejas a partir de estructuras simples. Este patrón puede ayudarlo.
 
+-   Estructura del patrón de diseño Composite
+    ![PATRON-COMPOSITE-ESTRUCTURA](imagenes/patron_composite_estructura.png)
+    - Fuente: (Blancarte, O.) Introducción a los patrones de diseño.
 
 ## EJERCICIO RESUELTO
 
